@@ -22,3 +22,5 @@
 * collector.py：周期性截取图片并保存，用于日后训练
 * show_image.py:测试抓取点是否准确
 * test.py：测试识别结果
+
+![](1.png)
