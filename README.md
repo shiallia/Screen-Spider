@@ -19,7 +19,7 @@
 几个文件的作用：
 * catcher.py：开始截取，只在股票开盘时间工作
 * catcher_run.py：开始截取，立刻工作
-* collector.py：周期性截取图片并保存，用于日后训练
+* collector.py：周期性截取图片并保存，用作tesseract-OCR训练数据
 * show_image.py:测试抓取点是否准确
 * test.py：测试识别结果
 
